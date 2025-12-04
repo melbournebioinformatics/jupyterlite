@@ -14,7 +14,7 @@ JupyterLite is being tested against modern web browsers:
 
 - Firefox 90+
 - Chromium 89+
-ß
+
 ## Further Information and Updates
 
 For more info, keep an eye on the JupyterLite documentation:
